@@ -1,0 +1,18 @@
+body {
+background: url(https://bhdfgbvdufbhvkxdjf.000webhostapp.com/Артефакты/img/Без%20имени.png) no-repeat;
+-moz-background-size: 100%; /* Firefox 3.6+ */
+-webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+-o-background-size: 100%;
+background-size: 100%;
+}
+.link{
+	 float: left;
+  width: 10%;
+  min-height: 100px;
+  padding: 2%;
+  background-color: rgba(243, 156, 18, 0.5);
+  border-radius: 30px;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
